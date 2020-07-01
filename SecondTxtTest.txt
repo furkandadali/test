@@ -1,3 +1,8 @@
 komut_satiri_1_deneme
+<<<<<<< HEAD
 kommut_satiri_2_deneme
 deneme_3
+=======
+komut_satiri_2_deneme
+komut_satiri_3_deneme
+>>>>>>> 68d339d0af99761ec86684d30bc57db45be242f4

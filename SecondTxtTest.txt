@@ -1,2 +1,3 @@
 komut_satiri_1_deneme
-kommut_satiri_2_deneme
+komut_satiri_2_deneme
+komut satiri_3_deneme
